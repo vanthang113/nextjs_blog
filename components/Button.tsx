@@ -1,4 +1,4 @@
-"use client"
+'use client'
 import { IcSpinner } from "@/public/icons/IcSpinner";
 import { ReactNode, use, useId, useState } from "react";
 

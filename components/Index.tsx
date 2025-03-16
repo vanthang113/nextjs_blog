@@ -8,7 +8,7 @@ import { IcGas } from "@/public/icons/IcGas";
 export{
     Footer,
     Header,
-    Button,
+    Button,     
     TextFiled,
     IcGas
 }
