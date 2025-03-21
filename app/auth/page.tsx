@@ -1,4 +1,5 @@
 'use client'
+// sử dụng JWT token để sử dụng login 
 import { useState } from "react";
 
 export default function AuthPage() {
@@ -24,8 +25,8 @@ export default function AuthPage() {
           )}
 
           <div className="mb-4">
-            <label className="block text-gray-700">Email</label>
-            <input
+            <label className="block text-gray-700">Email hoặc số điện thoại</label>
+            <input 
               type="email"
               className="w-full p-2 border border-gray-300 rounded mt-1"
               placeholder="Nhập email"

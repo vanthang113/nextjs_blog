@@ -46,8 +46,8 @@ const Footer: React.FC = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="https://github.com/vanthang113/nextjs_blog.git" className="hover:underline">
-                    Discord
+                  <a href="https://www.facebook.com/share/1A9ct1LhA8/" className="hover:underline">
+                    FaceBook
                   </a>
                 </li>
               </ul>

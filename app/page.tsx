@@ -4,7 +4,7 @@ import { TextFiled } from "@/components/TextFiled";
 import { IcCarLogo } from "@/public/icons/IcCarLogo";
 import {ProductCar} from "@/constants/types/homeType";
 import CardProduct from "@/sections/CardProduct/CradProduct";
-import { useEffect, useState, } from "react";
+import { useEffect, useState } from "react";
 
 
 export default function Home() {

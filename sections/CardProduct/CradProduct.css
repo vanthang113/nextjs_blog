@@ -1,6 +1,7 @@
 .card-items {
     overflow: hidden;
-    width: 490px;
+    width: 437px;
+    /* width: 490px; */
     background-color: #F9F9FC;
     border-radius: 15px;
     padding: 2rem 0;
@@ -30,3 +31,4 @@
     flex-direction: row;
     justify-content: space-between;
 }
+
